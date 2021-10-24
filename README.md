@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: At childhood, I use to think, those who die, goes inside television. 
 
+![Rajat-Pofile](https://github-readme-stats.vercel.app/api?username=Rajat-Dabade&show_icons=true&theme=radical)
