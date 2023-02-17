@@ -1,5 +1,5 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Rajat.
-A full stack developer from India. Developer on weekdays and mountain lover on weekends and I'm passionate about technologies and love solving problems by building beautiful software. I find great inspiration in building increasingly larger systems, especially when working with complex and sophisticated technologies. The challenge of creating such systems never fails to amaze me and motivates me to continuously improve my skills.
+I am a full stack developer hailing from India, who works on cutting-edge software on weekdays and enjoys exploring mountains on weekends. I am passionate about technology and find joy in developing elegant solutions to complex problems. My interest lies in building large-scale systems that use sophisticated technologies, which not only challenge me but also drive me to enhance my skills constantly. The challenge of creating such systems is a constant source of inspiration for me, and I am committed to making a positive impact by building robust and beautiful software.
 
 ## 📈 Stats
 
