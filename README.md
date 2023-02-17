@@ -25,7 +25,7 @@ I am a full stack developer hailing from India, who works on cutting-edge softwa
 
 ## 📫 How to Reach Me
 
-- [Email](rajatdabade1997@gmail.com)
+- [Email](mailto:rajatdabade1997@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/rajat-dabade)
 - [Twitter](https://twitter.com/DabadeRajat)
 - [StackOverflow](https://stackoverflow.com/users/9293065/rajat-dabade)
